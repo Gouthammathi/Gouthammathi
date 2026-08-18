@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Goutham</h1>
 <h3 align="center">A versatile AI & Web Developer from India, passionate about crafting intelligent systems and engaging user experiences.</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://draaft.tech)
+- 🔭 I’m currently working on [Draaft](https://draaft.tech)
 
 - 🌱 I’m currently boosting **Artificial Intelligence skillset**
 
-- 👯 I’m looking to collaborate on [Personal AI assistance](https://thecafeos.app)
+- 👯 I’m looking to collaborate on [The CafeOs](https://thecafeos.app)
 
 - 🤝 I’m looking for help with [3D website using three.Js](https://github.com/Gouthammathi/Nike-3D)
 
